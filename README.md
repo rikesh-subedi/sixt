@@ -11,3 +11,6 @@
 3. Networking: URLSession
 4. JSON parsing: JSONDecoder with Codable
 5. Unit Tests: XCTest
+
+
+![Demo](https://github.com/rikesh-subedi/sixt/blob/main/sixt-assignment-demo.gif)
